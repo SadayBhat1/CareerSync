@@ -81,3 +81,7 @@ The **College Placement Management Android Application** is a user-friendly mobi
   - Allow limited functionality without an active internet connection.
 ---
 
+
+
+**Note:** The notification feature is currently non-functional due to the expiration of the Google Firebase free trial.
+
