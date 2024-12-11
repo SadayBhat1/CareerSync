@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926327981469",
+    "project_id": "kle-placement-app",
+    "storage_bucket": "kle-placement-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926327981469:android:5e01083de7ff692ca11b74",
+        "android_client_info": {
+          "package_name": "com.finalproj.kleplacementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926327981469-3m57t6lgvn99kscjojf4q36jmo04e15q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6LLxjrb0OaKd_8eqzOZxGxo0AAU6dZA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926327981469-3m57t6lgvn99kscjojf4q36jmo04e15q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+<group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/sidebar_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+
+    <item
+        android:id="@+id/website"
+        android:icon="@drawable/ic_baseline_web_24"
+        android:title="KLE's BCA Hubballi Website"/>
+
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Feedback"/>
+
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share"/>
+
+
+    <item
+        android:id="@+id/developers"
+        android:icon="@drawable/ic_baseline_android_24"
+        android:title="Developers"/>
+    </group>
+</menu>
